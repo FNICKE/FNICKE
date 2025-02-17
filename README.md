@@ -1,3 +1,5 @@
+<h1>🌟 Hey, I’m Sachin! 🌟</h1>
+
 # 💫 About Me:
 👨‍💻 Sachin Rathod<br>🎓 3rd Year Computer Engineering Student @ Saraswati College of Engineering<br>🌐 Front-End Developer | Freelancer | Intern<br>💻 Passionate about creating responsive and interactive websites with HTML, CSS, JavaScript<br>🚀 Currently learning and building with React & Vue.js<br>⚡ Experienced in delivering high-quality web solutions to clients as a Freelancer<br>🔧 Interning to sharpen skills and work on real-world web development projects<br>📚 Constantly evolving as a web developer to stay ahead in the fast-paced tech world<br>💬 Let’s collaborate on exciting web projects! 🌍
 
