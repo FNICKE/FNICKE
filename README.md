@@ -2,7 +2,7 @@
 
 # 💪🏻 About Me:
 👨‍💻 **Sachin Rathod**<br>
-🎓 **3rd Year Computer Engineering Student** @ Saraswati College of Engineering<br>
+🎓 **3rd Year Computer Engineering Student** @ Saraswati College of Engineering, Kharghar<br>
 🌐 **Front-End Developer | Freelancer | Intern**<br>
 💻 Passionate about creating **responsive and interactive** websites with **HTML, CSS, JavaScript**<br>
 🚀 Currently **learning and building** with **React & Vue.js**<br>
