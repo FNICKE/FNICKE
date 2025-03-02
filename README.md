@@ -15,9 +15,9 @@
 
 ## 🌐 Connect with Me:
 [![Discord](https://img.shields.io/badge/🔴_Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Fnicke) 
-[![Facebook](https://img.shields.io/badge/💙_Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sachin Rathod) 
+[![Facebook](https://img.shields.io/badge/💙_Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SachinRathod) 
 [![Instagram](https://img.shields.io/badge/💎_Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ https://www.instagram.com/insane_sachin_666/ ) 
-[![LinkedIn](https://img.shields.io/badge/🌟_LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sachin-rathod-469168310) 
+[![LinkedIn](https://img.shields.io/badge/🌟_LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/sachin-rathod-469168310](https://www.linkedin.com/in/sachin-rathod-469168310/)) 
 [![email](https://img.shields.io/badge/📧_Email-D14836?logo=gmail&logoColor=white)](mailto:rathodsachin0766@gmail.com)
 
 # 🌟 Tech Stack:
