@@ -1,4 +1,5 @@
 <h1>🌟 Hey, I’m Sachin! 🌟</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fnicke&label=Profile%20views&color=0e75b6&style=flat" alt="fnicke" /> </p>
 
 # 💪🏻 About Me:
 👨‍💻 **Sachin Rathod**<br>
@@ -12,6 +13,9 @@
 💬 **Let’s collaborate** on exciting web projects! 🌍<br>
 
 📏 **Portfolio:** [🚀 Visit My Portfolio 🚀](https://fnicke.github.io/My-Portfolio/?#)
+
+
+
 
 ## 🌐 Connect with Me:
 [![Discord](https://img.shields.io/badge/🔴_Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Fnicke) 
