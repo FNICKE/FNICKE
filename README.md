@@ -36,6 +36,12 @@
 ![React](https://img.shields.io/badge/🌟_React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Oracle](https://img.shields.io/badge/📚_Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FNICKE&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FNICKE&theme=dark&hide_border=false)<br/>
