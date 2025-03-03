@@ -11,7 +11,7 @@
 📚 Constantly **evolving** as a web developer to **stay ahead** in the fast-paced tech world<br>
 💬 **Let’s collaborate** on exciting web projects! 🌍<br>
 
-📏 **Portfolio:** [🚀 Visit My Portfolio 🚀](https://fnicke.github.io/MY-PORTFOLIO-/)
+📏 **Portfolio:** [🚀 Visit My Portfolio 🚀](https://fnicke.github.io/My-Portfolio/?#)
 
 ## 🌐 Connect with Me:
 [![Discord](https://img.shields.io/badge/🔴_Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Fnicke) 
