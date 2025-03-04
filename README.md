@@ -1,4 +1,11 @@
-<h1>🌟 Hey, I’m Sachin! 🌟</h1>
+<div align="center">
+  <img height="auto" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+</div>
+
+###
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F4FF35&duration=4000&lines=Hi+There!+👋;+I'm+Sachin+Rathod+;Passionate+Software+Developer!+;FULL+Stack+Developer!+;" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fnicke&label=Profile%20views&color=0e75b6&style=flat" alt="fnicke" /> </p>
 
 # 💪🏻 About Me:
