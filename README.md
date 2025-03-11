@@ -15,7 +15,7 @@
 ⚡ Experienced in **delivering high-quality web solutions** to clients as a **Freelancer**<br>
 🔧 Interning to **sharpen skills** and work on **real-world web development projects**<br>
 📚 Constantly **evolving** as a web developer to **stay ahead** in the fast-paced tech world<br>
-💬 **Let’s collaborate** on exciting web projects! 🌍<br>
+💬 **Let’s collaborate** on exciting Web Projects! 🌍<br>
 
 📏 **Portfolio:** [🚀 Visit My Portfolio 🚀](https://fnicke.github.io/My-Portfolio/?#)
 
