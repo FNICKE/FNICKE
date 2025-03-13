@@ -31,37 +31,51 @@
 [![Email](https://img.shields.io/badge/📧_Email-D14836?logo=gmail&logoColor=white)](mailto:rathodsachin0766@gmail.com)
 
 # 🌟 Tech Stack:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nextjs,php,mysql,python,express,oracle,tensorflow,pytorch,scikit-learn,typescript,graphql,docker,aws" />
-</div>
+
+## 🎨 Frontend:
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" /><br>CSS</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vue" /><br>Vue.js</td>
+  </tr>
+</table>
+
+## 🖥 Backend:
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" /><br>Express.js</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" /><br>PHP</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
+  </tr>
+</table>
+
+## 🛢 Database & ML:
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jupyter" /><br>Jupyter Notebook</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=scikitlearn" /><br>Scikit-Learn</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
+  </tr>
+</table>
 
 ## 📈 My Work Process:
-🔹 Understanding client requirements and business needs  
-🔹 Designing user-friendly UI with modern frameworks  
-🔹 Writing clean, maintainable, and scalable code  
-🔹 Ensuring cross-browser compatibility and mobile responsiveness  
-🔹 Deploying projects on cloud services (AWS, Firebase)  
-🔹 Testing and debugging for a seamless user experience  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+🔹 Researching and understanding medical data for recommendations  
+🔹 Developing and training machine learning models for medical predictions  
+🔹 Implementing a robust backend to handle medical recommendations  
+🔹 Designing a user-friendly UI for seamless interaction  
+🔹 Testing models for accuracy and efficiency  
+🔹 Deploying the system for real-world application  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FNICKE&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FNICKE&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FNICKE&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=FNICKE&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🖁 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=FNICKE&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=FNICKE&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
