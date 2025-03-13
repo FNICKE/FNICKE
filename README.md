@@ -16,6 +16,10 @@
 🔧 Interning to **sharpen skills** and work on **real-world web development projects**  
 📚 Constantly **evolving** as a web developer to **stay ahead** in the fast-paced tech world  
 💬 **Let’s collaborate** on exciting Web Projects! 🌍  
+📝 **Blogging about Web Development & Tech** on [My Blog](#)  
+🎯 **Goals for 2025**: Contribute to Open Source, Build Scalable Web Applications, and Improve Problem-Solving Skills  
+🌱 **Currently Learning**: TypeScript, GraphQL, and Serverless Architecture  
+📖 **Favorite Tech Books**: "Clean Code" by Robert C. Martin, "You Don't Know JS" series  
 
 📏 **Portfolio:** [🚀 Visit My Portfolio 🚀](https://fnicke.github.io/My-Portfolio/?#)
 
@@ -28,8 +32,16 @@
 
 # 🌟 Tech Stack:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nextjs,php,mysql,python,express,oracle,tensorflow,pytorch,scikit-learn" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nextjs,php,mysql,python,express,oracle,tensorflow,pytorch,scikit-learn,typescript,graphql,docker,aws" />
 </div>
+
+## 📈 My Work Process:
+🔹 Understanding client requirements and business needs  
+🔹 Designing user-friendly UI with modern frameworks  
+🔹 Writing clean, maintainable, and scalable code  
+🔹 Ensuring cross-browser compatibility and mobile responsiveness  
+🔹 Deploying projects on cloud services (AWS, Firebase)  
+🔹 Testing and debugging for a seamless user experience  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
