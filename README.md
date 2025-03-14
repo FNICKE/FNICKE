@@ -1,4 +1,6 @@
-![logo](https://github.com/swapnil2382/swapnil2382/blob/main/1_aniyNTcHORbvDiLGUzJSsQ.gif)
+<a href="https://github.com/FNICKE" target="_blank">
+    <img src="https://github.com/swapnil2382/swapnil2382/blob/main/1_aniyNTcHORbvDiLGUzJSsQ.gif" alt="Click to visit FNICKE's GitHub" style="width: 2000px;">
+</a>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F4FF35&duration=4000&lines=Hi+There!+👋;+I'm+Sachin+Rathod+;Passionate+Software+Developer!+;FULL+Stack+Developer!+;" />
