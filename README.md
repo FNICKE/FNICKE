@@ -23,8 +23,7 @@
 - 🌐 **Full-Stack Developer | Freelancer | Intern**  
 - 💻 Passionate about building **scalable, interactive, and high-performance** web applications.  
 - 🚀 Currently **developing projects** with **React & Vue.js**  
-- 🔧 **Interning to refine skills** & work on **real-world projects**  
-- ✍️ **Tech Blogger** sharing insights on [My Blog](#)  
+- 🔧 **Interning to refine skills** & work on **real-world projects**    
 - 🎯 **2025 Goals**: Open Source Contributions, Building Scalable Apps, Mastering Problem-Solving  
 - 🌱 **Currently Learning**: TypeScript, GraphQL, Serverless Architecture  
 - 📖 **Favorite Tech Reads**: "Clean Code" by Robert C. Martin, "You Don't Know JS" series  
