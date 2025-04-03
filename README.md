@@ -19,7 +19,7 @@
 ## 💡 About Me
 
 - 👨‍💻 **Sachin Rathod**  
-- 🎓 **Computer Engineering Student** @ Saraswati College of Engineering, Kharghar  
+- 🎓 **Computer Engineering Student** @ Saraswati College Of Engineering, Kharghar  
 - 🌐 **Full-Stack Developer | Freelancer | Intern**  
 - 💻 Passionate about building **scalable, interactive, and high-performance** web applications.  
 - 🚀 Currently **developing projects** with **React & Vue.js**  
