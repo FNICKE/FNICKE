@@ -32,7 +32,7 @@
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect With Me
 
 <p align="center">
     <a href="https://discord.gg/Fnicke" target="_blank"><img src="https://img.shields.io/badge/🔴_Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
