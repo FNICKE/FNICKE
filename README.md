@@ -164,7 +164,7 @@
   </tr>
 </table>
 
-### 🗄️ **Database & DevOps**
+### 🗄️ **Database **
 
 <table>
   <tr>
@@ -238,7 +238,7 @@
 
 <div align="center">
 
-### 🚀 **[Visit My Interactive Portfolio](https://fnicke.github.io/My-Portfolio/?#)**
+### 🚀 **[Visit My Interactive Portfolio](https://silly-cucurucho-620726.netlify.app/)**
 
 ```ascii
 ┌─────────────────────────────────────────┐
