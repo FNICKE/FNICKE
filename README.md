@@ -102,27 +102,22 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><br>
       <sub><b>HTML5</b></sub><br>
-      <sub>⭐⭐⭐⭐⭐</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br>
       <sub><b>CSS3</b></sub><br>
-      <sub>⭐⭐⭐⭐⭐</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=js" width="50" height="50"/><br>
       <sub><b>JavaScript</b></sub><br>
-      <sub>⭐⭐⭐⭐⭐</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=ts" width="50" height="50"/><br>
       <sub><b>TypeScript</b></sub><br>
-      <sub>⭐⭐⭐⭐</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=sass" width="50" height="50"/><br>
       <sub><b>SASS</b></sub><br>
-      <sub>⭐⭐⭐⭐</sub>
     </td>
   </tr>
 </table>
@@ -134,27 +129,18 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br>
       <sub><b>React.js</b></sub><br>
-      <sub>🚀 Expert</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=vue" width="50" height="50"/><br>
       <sub><b>Vue.js</b></sub><br>
-      <sub>💚 Advanced</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50"/><br>
       <sub><b>Next.js</b></sub><br>
-      <sub>⚡ Pro</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="50" height="50"/><br>
-      <sub><b>Nuxt.js</b></sub><br>
-      <sub>🔥 Learning</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=angular" width="50" height="50"/><br>
       <sub><b>Angular</b></sub><br>
-      <sub>📚 Exploring</sub>
     </td>
   </tr>
 </table>
@@ -166,27 +152,14 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/><br>
       <sub><b>Node.js</b></sub><br>
-      <sub>🌟 Expert</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>
       <sub><b>Express.js</b></sub><br>
-      <sub>⚡ Advanced</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=php" width="50" height="50"/><br>
-      <sub><b>PHP</b></sub><br>
-      <sub>🐘 Pro</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50"/><br>
-      <sub><b>Laravel</b></sub><br>
-      <sub>🎨 Expert</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br>
       <sub><b>Python</b></sub><br>
-      <sub>🐍 Advanced</sub>
     </td>
   </tr>
 </table>
@@ -198,27 +171,19 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/><br>
       <sub><b>MySQL</b></sub><br>
-      <sub>🔑 Expert</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/><br>
       <sub><b>MongoDB</b></sub><br>
-      <sub>🍃 Advanced</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50"/><br>
       <sub><b>PostgreSQL</b></sub><br>
-      <sub>🐘 Pro</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=redis" width="50" height="50"/><br>
       <sub><b>Redis</b></sub><br>
       <sub>⚡ Learning</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50"/><br>
-      <sub><b>Firebase</b></sub><br>
-      <sub>🔥 Advanced</sub>
     </td>
   </tr>
 </table>
@@ -231,16 +196,6 @@
       <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/><br>
       <sub><b>TensorFlow</b></sub><br>
       <sub>🧠 Learning</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/><br>
-      <sub><b>PyTorch</b></sub><br>
-      <sub>🔥 Exploring</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/><br>
-      <sub><b>Docker</b></sub><br>
-      <sub>🐳 Advanced</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br>
@@ -306,22 +261,6 @@
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-## 🎵 Current Coding Vibes
-
-<div align="center">
-
-```ascii
-♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫
-│ 🎧 Lo-Fi Beats & Deep Focus Sessions │
-│ 🎼 Electronic & Synthwave Vibes      │  
-│ 🎵 Coding Soundtracks & OSTs         │
-♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫
-```
 
 </div>
 
