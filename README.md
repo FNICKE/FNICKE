@@ -47,17 +47,16 @@
 <div align="center">
   
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                    🎓 COMPUTER ENGINEER                      ║
-║              @ Saraswati College Of Engineering              ║
-╠══════════════════════════════════════════════════════════════╣
-║  🌐 Full-Stack Developer | Freelancer | Tech Innovator      ║
-║  💻 Building scalable, interactive web applications          ║
-║  🚀 Currently mastering React, Vue.js & Modern Tech         ║
-║  🔧 Interning to refine skills & tackle real-world projects ║
-║  🎯 2025 Goals: Open Source, Scalable Apps, Problem-Solving ║
-║  🌱 Learning: TypeScript, GraphQL, Serverless Architecture  ║
-╚══════════════════════════════════════════════════════════════╝
+🎓 COMPUTER ENGINEER
+@ Saraswati College Of Engineering
+
+🌐 Full-Stack Developer | Freelancer | Tech Innovator
+💻 Building scalable, interactive web applications
+🚀 Currently mastering React, Vue.js & Modern Tech
+🔧 Interning to refine skills & tackle real-world projects
+🎯 2025 Goals: Open Source, Scalable Apps, Problem-Solving
+🌱 Learning: TypeScript, GraphQL, Serverless Architecture
+
 ```
 
 </div>
