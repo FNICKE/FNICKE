@@ -1,94 +1,387 @@
 # 🚀 Sachin Rathod - Full Stack Developer | Tech Enthusiast
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&color=F4FF35&duration=4000&lines=Hi+There!+👋;I'm+Sachin+Rathod;Passionate+Software+Developer!;Full+Stack+Developer!;Tech+Blogger!;Open+Source+Contributor!" />
-</h1>
+<div align="center">
+  
+  <!-- 3D Rotating Title -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=80&color=F4FF35,00D4FF,FF6B6B,4ECDC4,45B7D1&duration=3000&pause=1000&multiline=false&lines=Hi+There!+👋+Welcome+to+My+Universe;I'm+Sachin+Rathod+%7C+Full+Stack+Developer;Passionate+Software+Developer+🚀;Building+Digital+Experiences+✨;Tech+Enthusiast+%7C+Problem+Solver;Open+Source+Contributor+💻" alt="Animated Title" />
 
+</div>
+
+<!-- 3D Animated Banner -->
 <p align="center">
-    <a href="https://github.com/FNICKE" target="_blank">
-        <img src="https://github.com/swapnil2382/swapnil2382/blob/main/1_aniyNTcHORbvDiLGUzJSsQ.gif" alt="Click to visit FNICKE's GitHub" width="500">
-    </a>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding Animation" width="400">
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=fnicke&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+  
+  <!-- Profile Views with Enhanced Design -->
+  <img src="https://komarev.com/ghpvc/?username=fnicke&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/fnicke?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/fnicke?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+  
+</div>
 
 ---
 
-## 💡 About Me
+## 🌟 Interactive Profile Stats
 
-- 👨‍💻 **Sachin Rathod**  
-- 🎓 **Computer Engineering Student** @ Saraswati College Of Engineering, Kharghar  
-- 🌐 **Full-Stack Developer | Freelancer | Intern**  
-- 💻 Passionate about building **scalable, interactive, & high-performance** web applications.  
-- 🚀 Currently **developing projects** with **React & Vue.js**  
-- 🔧 **Interning to refine skills** & work on **real-world projects**    
-- 🎯 **2025 Goals**: Open Source Contributions, Building Scalable Apps, Mastering Problem-Solving  
-- 🌱 **Currently Learning**: TypeScript, GraphQL, Serverless Architecture  
-- 📖 **Favorite Tech Reads**: "Clean Code" by Robert C. Martin, "You Don't Know JS" series  
+<div align="center">
+  
+  <!-- 3D GitHub Stats Cards -->
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=fnicke&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=15" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=fnicke&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&border_radius=15" />
+  
+</div>
 
-📏 **Portfolio:** [🚀 Check Out My Work 🚀](https://fnicke.github.io/My-Portfolio/?#)
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-    <a href="https://discord.gg/Fnicke" target="_blank"><img src="https://img.shields.io/badge/🔴_Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
-    <a href="https://www.facebook.com/p/Sachin-Rathod-100040887106473/" target="_blank"><img src="https://img.shields.io/badge/💙_Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-    <a href="https://www.instagram.com/insane_sachin_666/?hl=en" target="_blank"><img src="https://img.shields.io/badge/💎_Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/sachin-rathod-469168310/" target="_blank"><img src="https://img.shields.io/badge/🌟_LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-    <a href="mailto:rathodsachin0766@gmail.com" target="_blank"><img src="https://img.shields.io/badge/📧_Email-D14836?logo=gmail&logoColor=white"></a>
-</p>
+<div align="center">
+  
+  <!-- Most Used Languages with 3D Effect -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnicke&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15" />
+  
+</div>
 
 ---
 
-## 🌟 Tech Stack:
+## 🎯 About Me - Interactive Profile
 
-### 🎨 Frontend:
-<table align="center">
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" /><br>CSS</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" /><br>TypeScript</td>
-  </tr>
-</table>
+<div align="center">
+  
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                    🎓 COMPUTER ENGINEER                      ║
+║              @ Saraswati College Of Engineering              ║
+╠══════════════════════════════════════════════════════════════╣
+║  🌐 Full-Stack Developer | Freelancer | Tech Innovator      ║
+║  💻 Building scalable, interactive web applications          ║
+║  🚀 Currently mastering React, Vue.js & Modern Tech         ║
+║  🔧 Interning to refine skills & tackle real-world projects ║
+║  🎯 2025 Goals: Open Source, Scalable Apps, Problem-Solving ║
+║  🌱 Learning: TypeScript, GraphQL, Serverless Architecture  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-### 🔧 Backend:
-<table align="center">
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" /><br>Express.js</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" /><br>PHP</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
-  </tr>
-</table>
+</div>
 
-### 📦 Frameworks:
-<table align="center">
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" /><br>React.js</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vue" /><br>Vue.js</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" /><br>Next.js</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=laravel" /><br>Laravel</td>
-  </tr>
-</table>
 
-### 🛢 Database & ML:
-<table align="center">
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch</td>
-  </tr>
-</table>
 
 ---
 
+## 🌐 Connect With Me - Social Universe
 
-🌟 **Let's connect and build something amazing together! 🚀**
+<div align="center">
 
+<!-- Animated Social Icons -->
+<a href="https://discord.gg/Fnicke" target="_blank">
+  <img src="https://img.shields.io/badge/🎮_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
+</a>
+<a href="https://www.linkedin.com/in/sachin-rathod-469168310/" target="_blank">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/insane_sachin_666/?hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+</a>
+<a href="https://www.facebook.com/p/Sachin-Rathod-100040887106473/" target="_blank">
+  <img src="https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
+</a>
+<a href="mailto:rathodsachin0766@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+</a>
+
+</div>
+
+---
+
+## 💫 Tech Stack Universe
+
+<div align="center">
+
+### 🎨 **Frontend Mastery**
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><br>
+      <sub><b>HTML5</b></sub><br>
+      <sub>⭐⭐⭐⭐⭐</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br>
+      <sub><b>CSS3</b></sub><br>
+      <sub>⭐⭐⭐⭐⭐</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="50" height="50"/><br>
+      <sub><b>JavaScript</b></sub><br>
+      <sub>⭐⭐⭐⭐⭐</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts" width="50" height="50"/><br>
+      <sub><b>TypeScript</b></sub><br>
+      <sub>⭐⭐⭐⭐</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=sass" width="50" height="50"/><br>
+      <sub><b>SASS</b></sub><br>
+      <sub>⭐⭐⭐⭐</sub>
+    </td>
+  </tr>
+</table>
+
+### 🎯 **Framework Arsenal**
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br>
+      <sub><b>React.js</b></sub><br>
+      <sub>🚀 Expert</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vue" width="50" height="50"/><br>
+      <sub><b>Vue.js</b></sub><br>
+      <sub>💚 Advanced</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50"/><br>
+      <sub><b>Next.js</b></sub><br>
+      <sub>⚡ Pro</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="50" height="50"/><br>
+      <sub><b>Nuxt.js</b></sub><br>
+      <sub>🔥 Learning</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=angular" width="50" height="50"/><br>
+      <sub><b>Angular</b></sub><br>
+      <sub>📚 Exploring</sub>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ **Backend Powerhouse**
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/><br>
+      <sub><b>Node.js</b></sub><br>
+      <sub>🌟 Expert</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>
+      <sub><b>Express.js</b></sub><br>
+      <sub>⚡ Advanced</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=php" width="50" height="50"/><br>
+      <sub><b>PHP</b></sub><br>
+      <sub>🐘 Pro</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50"/><br>
+      <sub><b>Laravel</b></sub><br>
+      <sub>🎨 Expert</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br>
+      <sub><b>Python</b></sub><br>
+      <sub>🐍 Advanced</sub>
+    </td>
+  </tr>
+</table>
+
+### 🗄️ **Database & DevOps**
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/><br>
+      <sub><b>MySQL</b></sub><br>
+      <sub>🔑 Expert</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/><br>
+      <sub><b>MongoDB</b></sub><br>
+      <sub>🍃 Advanced</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50"/><br>
+      <sub><b>PostgreSQL</b></sub><br>
+      <sub>🐘 Pro</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=redis" width="50" height="50"/><br>
+      <sub><b>Redis</b></sub><br>
+      <sub>⚡ Learning</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50"/><br>
+      <sub><b>Firebase</b></sub><br>
+      <sub>🔥 Advanced</sub>
+    </td>
+  </tr>
+</table>
+
+### 🤖 **AI/ML & Tools**
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/><br>
+      <sub><b>TensorFlow</b></sub><br>
+      <sub>🧠 Learning</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/><br>
+      <sub><b>PyTorch</b></sub><br>
+      <sub>🔥 Exploring</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/><br>
+      <sub><b>Docker</b></sub><br>
+      <sub>🐳 Advanced</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br>
+      <sub><b>Git</b></sub><br>
+      <sub>🌿 Expert</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/><br>
+      <sub><b>VS Code</b></sub><br>
+      <sub>💙 Daily Driver</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📈 GitHub Analytics Dashboard
+
+<div align="center">
+
+### 🏆 **Achievement Showcase**
+
+<img src="https://github-profile-trophy.vercel.app/?username=fnicke&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+### 📊 **Contribution Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fnicke&theme=redical&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+### 🎯 **Coding Activity**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fnicke&theme=radical" width="100%" alt="Profile Summary"/>
+
+</div>
+
+---
+
+## 🎨 Portfolio Showcase
+
+<div align="center">
+
+### 🚀 **[Visit My Interactive Portfolio](https://fnicke.github.io/My-Portfolio/?#)**
+
+```ascii
+┌─────────────────────────────────────────┐
+│  🎯 Featured Projects & Achievements    │
+├─────────────────────────────────────────┤
+│  • 🌐 Interactive Web Applications      │
+│  • 📱 Mobile-First Responsive Designs   │
+│  • ⚡ Performance-Optimized Solutions   │
+│  • 🎨 Creative UI/UX Implementations    │
+│  • 🔧 Full-Stack Development Projects   │
+└─────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+## 🎵 Current Coding Vibes
+
+<div align="center">
+
+```ascii
+♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫
+│ 🎧 Lo-Fi Beats & Deep Focus Sessions │
+│ 🎼 Electronic & Synthwave Vibes      │  
+│ 🎵 Coding Soundtracks & OSTs         │
+♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫♪♫
+```
+
+</div>
+
+---
+
+## ⚡ Fun Facts & Hobbies
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+      <br><sub><b>Code Ninja</b></sub>
+      <br><sub>Debugging at 3 AM</sub>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
+      <br><sub><b>Coffee Addict</b></sub>
+      <br><sub>Fuel for coding sessions</sub>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100">
+      <br><sub><b>Tech Explorer</b></sub>
+      <br><sub>Always learning new tech</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💝 Thank You for Visiting!
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&color=00D4FF&duration=4000&pause=3000&lines=Thanks+for+checking+out+my+profile!;Let's+connect+and+build+something+amazing!;Happy+Coding!+🚀✨" alt="Thank You Message" />
+
+### 🌟 **"Code is poetry written in logic"** 🌟
+
+---
+
+<sub>💡 **Tip**: Pin this repository to keep track of my latest updates!</sub>
+
+</div>
+
+<!-- Hidden ASCII Art for Fun -->
+<!--
+    ____             _     _          ____       _   _               _ 
+   / ___|  __ _  ___| |__ (_)_ __    |  _ \ __ _| |_| |__   ___   __| |
+   \___ \ / _` |/ __| '_ \| | '_ \   | |_) / _` | __| '_ \ / _ \ / _` |
+    ___) | (_| | (__| | | | | | | |  |  _ < (_| | |_| | | | (_) | (_| |
+   |____/ \__,_|\___|_| |_|_|_| |_|  |_| \_\__,_|\__|_| |_|\___/ \__,_|
+                                                                       
+   Full Stack Developer | Tech Enthusiast | Problem Solver
+-->
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&desc=Sachin%20Rathod%20|%20Full%20Stack%20Developer&descAlignY=50&descAlign=62" width="100%"/>
+</div>
