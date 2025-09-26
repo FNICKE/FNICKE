@@ -46,8 +46,7 @@
 
 <div align="center">
   
-```ascii
-🎓 COMPUTER ENGINEER
+🎓 COMPUTER ENGINEERING STUDENT
 @ Saraswati College Of Engineering
 
 🌐 Full-Stack Developer | Freelancer | Tech Innovator
@@ -56,8 +55,6 @@
 🔧 Interning to refine skills & tackle real-world projects
 🎯 2025 Goals: Open Source, Scalable Apps, Problem-Solving
 🌱 Learning: TypeScript, GraphQL, Serverless Architecture
-
-```
 
 </div>
 
