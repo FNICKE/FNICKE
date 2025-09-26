@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- 3D Rotating Title -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=80&color=F4FF35,00D4FF,FF6B6B,4ECDC4,45B7D1&duration=3000&pause=1000&multiline=false&lines=Hi+There!+👋+Welcome+to+My+Universe;I+am+Sachin+Rathod+%7C+Full+Stack+Developer;Passionate+Software+Developer+🚀;Building+Digital+Experiences+✨;Tech+Enthusiast+%7C+Problem+Solver;Open+Source+Contributor+💻" alt="Animated Title" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=80&color=F4FF35,00D4FF,FF6B6B,4ECDC4,45B7D1&duration=3000&pause=1000&multiline=false&lines=Hi+There!+👋+Welcome+to+My+Universe;👋+Sachin+Rathod+%7C+Full+Stack+Developer;Passionate+Software+Developer+🚀;Building+Digital+Experiences+✨;Tech+Enthusiast+%7C+Problem+Solver;Open+Source+Contributor+💻" alt="Animated Title" />
 
 </div>
 
