@@ -160,7 +160,7 @@
   </tr>
 </table>
 
-### 🗄️ **Database **
+### 🗄️ **Database**
 
 <table>
   <tr>
