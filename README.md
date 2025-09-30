@@ -230,23 +230,28 @@
 
 ---
 
-## 🎨 Portfolio Showcase
+## 🎨 Portfolio Showcase  
 
 <div align="center">
 
-### 🚀 **[Visit My Interactive Portfolio](https://silly-cucurucho-620726.netlify.app/)**
+### 🚀 [🌐 Visit My Interactive Portfolio](https://silly-cucurucho-620726.netlify.app/)  
 
-```ascii
-┌─────────────────────────────────────────┐
-│  🎯 Featured Projects & Achievements    │
-├─────────────────────────────────────────┤
-│  • 🌐 Interactive Web Applications      │
-│  • 📱 Mobile-First Responsive Designs   │
-│  • ⚡ Performance-Optimized Solutions   │
-│  • 🎨 Creative UI/UX Implementations    │
-│  • 🔧 Full-Stack Development Projects   │
-└─────────────────────────────────────────┘
-```
+✨ *Explore my collection of projects, hackathon work, and full-stack innovations.* ✨  
+
+---
+
+### 🔥 Featured Highlights  
+
+🌐 **Interactive Web Applications** – Scalable & user-friendly  
+📱 **Mobile-First Responsive Designs** – Optimized for all devices  
+⚡ **Performance-Driven Solutions** – Fast & lightweight builds  
+🎨 **Creative UI/UX** – Modern, aesthetic, user-focused interfaces  
+🔧 **Full-Stack Projects (MERN & beyond)** – From concept to deployment  
+🚀 **Hackathon & Open-Source Contributions** – Innovation in action  
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Click_Here-1abc9c?style=for-the-badge&logo=netlify&logoColor=white)](https://silly-cucurucho-620726.netlify.app/)  
 
 </div>
 
