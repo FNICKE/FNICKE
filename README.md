@@ -153,10 +153,10 @@
       <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>
       <sub><b>Express.js</b></sub><br>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br>
-      <sub><b>Python</b></sub><br>
-    </td>
+   <td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/><br>
+  <sub><b>Java</b></sub><br>
+</td>
   </tr>
 </table>
 
