@@ -97,11 +97,11 @@
   <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><br>
-      <sub><b>HTML5</b></sub><br>
+      <sub><b>HTML</b></sub><br>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br>
-      <sub><b>CSS3</b></sub><br>
+      <sub><b>CSS</b></sub><br>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=js" width="50" height="50"/><br>
