@@ -210,14 +210,6 @@
 
 ---
 
-## 📈 GitHub Analytics Dashboard
-
-<div align="center">
-
-### 🏆 **Achievement Showcase**
-
-<img src="https://github-profile-trophy.vercel.app/?username=fnicke&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-
 ### 📊 **Contribution Graph**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fnicke&theme=redical&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
