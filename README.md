@@ -216,12 +216,7 @@
 </table>
 
 </div>
-
 ---
-
-### 📊 **Contribution Graph**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fnicke&theme=redical&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 ### 🎯 **Coding Activity**
 
@@ -230,10 +225,6 @@
 </div>
 
 ---
-
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
