@@ -5,6 +5,15 @@
   <!-- 3D Rotating Title -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=80&color=F4FF35,00D4FF,FF6B6B,4ECDC4,45B7D1&duration=3000&pause=1000&multiline=false&lines=Hi+There!+👋+Welcome+to+My+Universe;👋+Sachin+Rathod+%7C+Full+Stack+Developer;Passionate+Software+Developer+🚀;Building+Digital+Experiences+✨;Tech+Enthusiast+%7C+Problem+Solver;Open+Source+Contributor+💻" alt="Animated Title" />
 
+## 🎨 Portfolio Showcase  
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Click_Here-1abc9c?style=for-the-badge&logo=netlify&logoColor=white)](https://silly-cucurucho-620726.netlify.app/) 
+
+✨ *Explore my collection of projects, hackathon work, and full-stack innovations.* ✨   
+
+</div>
 </div>
 
 <!-- 3D Animated Banner -->
@@ -222,30 +231,6 @@
 
 ---
 
-## 🎨 Portfolio Showcase  
-
-<div align="center">
-
-### 🚀 [🌐 Visit My Interactive Portfolio](https://silly-cucurucho-620726.netlify.app/)  
-
-✨ *Explore my collection of projects, hackathon work, and full-stack innovations.* ✨  
-
----
-
-### 🔥 Featured Highlights  
-
-🌐 **Interactive Web Applications** – Scalable & user-friendly  
-📱 **Mobile-First Responsive Designs** – Optimized for all devices  
-⚡ **Performance-Driven Solutions** – Fast & lightweight builds  
-🎨 **Creative UI/UX** – Modern, aesthetic, user-focused interfaces  
-🔧 **Full-Stack Projects (MERN & beyond)** – From concept to deployment  
-🚀 **Hackathon & Open-Source Contributions** – Innovation in action  
-
----
-
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Click_Here-1abc9c?style=for-the-badge&logo=netlify&logoColor=white)](https://silly-cucurucho-620726.netlify.app/)  
-
-</div>
 
 ---
 
