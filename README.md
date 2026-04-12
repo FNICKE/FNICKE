@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Click_Here-1abc9c?style=for-the-badge&logo=netlify&logoColor=white)](https://silly-cucurucho-620726.netlify.app/) 
+[![Portfolio](https://sachin.page/) 
 
 ✨ *Explore my collection of projects, hackathon work, and full-stack innovations.* ✨   
 
