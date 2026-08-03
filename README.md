@@ -55,15 +55,15 @@
 ## 🎯 About Me - Interactive Profile
 
 <div align="center">
-  
-🎓 COMPUTER ENGINEERING STUDENT
-@ Saraswati College Of Engineering
 
-🌐 Full-Stack Developer | Freelancer | Tech Innovator
+🎓 B.E. IN COMPUTER ENGINEERING — GRADUATE (2026)
+Saraswati College Of Engineering
+
+🌐 Full-Stack Developer | Fresh Graduate | Tech Innovator
 💻 Building scalable, interactive web applications
 🚀 Currently mastering React, Vue.js & Modern Tech
-🔧 Interning to refine skills & tackle real-world projects
-🎯 2025 Goals: Open Source, Scalable Apps, Problem-Solving
+🔍 Actively seeking Software Engineering / Full Stack roles
+🎯 2026 Goals: Land a great role, Open Source, Scalable Apps
 🌱 Learning: TypeScript, GraphQL, Serverless Architecture
 
 </div>
@@ -167,6 +167,10 @@
   <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/><br>
   <sub><b>Java</b></sub><br>
 </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=spring" width="50" height="50"/><br>
+      <sub><b>Spring Boot</b></sub><br>
+    </td>
   </tr>
 </table>
 
@@ -215,6 +219,18 @@
     </td>
   </tr>
 </table>
+
+### 🤖 **AI-Assisted Development**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+
+</div>
 
 </div>
 ---
